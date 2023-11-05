@@ -1,5 +1,5 @@
 # spyne 2.13.2-alpha is compatible with lxml 4.2.5
-spyne==2.13.2-alpha
+spyne==2.14.0-alpha
 lxml==4.2.5
 requests>=2.20.1
 mod-wsgi==4.6.8
